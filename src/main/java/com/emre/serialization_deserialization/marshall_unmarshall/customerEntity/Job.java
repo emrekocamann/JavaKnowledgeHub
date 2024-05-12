@@ -1,4 +1,4 @@
-package com.emre.serialization_deserialization.marshall_unmarshall.entity;
+package com.emre.serialization_deserialization.marshall_unmarshall.customerEntity;
 
 import jakarta.xml.bind.annotation.XmlRootElement;
 

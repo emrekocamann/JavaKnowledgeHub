@@ -2,8 +2,8 @@ package com.emre.serialization_deserialization;
 
 import com.emre.serialization_deserialization.marshall_unmarshall.employeeEntity.Employee;
 import com.emre.serialization_deserialization.marshall_unmarshall.employeeEntity.EmployeeListWrapper;
-import com.emre.serialization_deserialization.marshall_unmarshall.entity.Customer;
-import com.emre.serialization_deserialization.marshall_unmarshall.entity.CustomerListWrapper;
+import com.emre.serialization_deserialization.marshall_unmarshall.customerEntity.Customer;
+import com.emre.serialization_deserialization.marshall_unmarshall.customerEntity.CustomerListWrapper;
 import jakarta.xml.bind.JAXBContext;
 import jakarta.xml.bind.Unmarshaller;
 
